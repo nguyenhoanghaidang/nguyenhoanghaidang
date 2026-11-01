@@ -1,4 +1,4 @@
-# Hi there 👋
+# Yoh what's up? Welcome to my GitHub.👋
 ## 💻 Software Engineering Student
 ### 🚀 Aspiring Backend Developer
 

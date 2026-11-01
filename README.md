@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🐍 GitHub Contribution Snake
+## Recent activities:
 
 ![GitHub Snake](https://raw.githubusercontent.com/nguyenhoanghaidang/nguyenhoanghaidang/output/github-snake.svg)
